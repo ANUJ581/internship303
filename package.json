@@ -1,0 +1,19 @@
+{
+  "name": "internship303",
+  "version": "1.0.0",
+  "description": "this is the website for RK International School",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikash452/internship303.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikash452/internship303/issues"
+  },
+  "homepage": "https://github.com/vikash452/internship303#readme"
+}
