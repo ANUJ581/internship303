@@ -1,0 +1,8 @@
+a:hover{
+    transition: all 0.7s;
+    background-color:  #e0ebeb !important;
+}
+
+.navbar{
+    padding: 0px 0px 0px 0px !important;
+}
